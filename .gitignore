@@ -6,7 +6,7 @@
 # dotenv files
 .env
 
-tanker.md
+
 # User-specific files
 *.rsuser
 *.suo
@@ -490,3 +490,4 @@ JsonArray.json
 response.json
 TxTResponse.json
 JsonObject.myOwnFileType
+tanker.md
